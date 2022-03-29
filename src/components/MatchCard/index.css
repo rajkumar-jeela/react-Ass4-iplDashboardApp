@@ -1,0 +1,45 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.recent-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  width: 280px;
+  background-color: #0f172a;
+  border-radius: 15px;
+  height: 440px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+.recent-logo {
+  width: auto;
+  height: 140px;
+}
+
+.team-name {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  font-weight: normal;
+}
+
+.won {
+  color: #18ed66;
+}
+
+.lost {
+  color: #e31a1a;
+}
+
+.match-result {
+  font-size: 13px;
+  color: white;
+  text-align: center;
+}
+
+.match-status {
+  font-size: 26px;
+}
